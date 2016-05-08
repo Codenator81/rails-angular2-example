@@ -21,3 +21,4 @@
 .byebug_history
 .idea/
 vendor/bundle
+node_modules
